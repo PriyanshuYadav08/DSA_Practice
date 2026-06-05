@@ -1,0 +1,135 @@
+DSA IMPORTANT PATTERNS FOR PRACTICE
+====================================
+
+1. SLIDING WINDOW
+   - Maximum/Minimum subarray of size k
+   - Longest substring without repeating characters
+   - Smallest substring containing all characters
+   - Permutation in string
+   - Fruit into baskets
+
+2. TWO POINTERS
+   - Two sum
+   - Valid palindrome
+   - Container with most water
+   - Trapping rain water
+   - Remove duplicates from sorted array
+   - Merge sorted array
+
+3. FAST & SLOW POINTERS
+   - Linked list cycle detection
+   - Find middle of linked list
+   - Palindrome linked list
+   - Rearrange list (reorder list)
+
+4. PREFIX SUM
+   - Subarray sum equals k
+   - Contiguous array
+   - Maximum subarray sum
+   - Range sum query
+
+5. HASH MAP / SET
+   - Valid anagram
+   - Group anagrams
+   - Isomorphic strings
+   - Happy number
+   - Intersection of arrays
+
+6. BINARY SEARCH
+   - Search in rotated sorted array
+   - Find minimum in rotated array
+   - Search for range
+   - Single element in sorted array
+   - Median of two sorted arrays
+
+7. MERGE INTERVALS
+   - Merge intervals
+   - Insert interval
+   - Meeting rooms
+   - Non-overlapping intervals
+
+8. CYCLIC SORT
+   - First missing positive
+   - Find duplicate number
+   - Find all numbers disappeared in array
+
+9. BFS / LEVEL ORDER TRAVERSAL
+   - Level order traversal
+   - Right view of tree
+   - Binary tree zigzag
+   - Vertical order traversal
+   - Word ladder
+
+10. DFS / BACKTRACKING
+    - Permutations
+    - Combinations
+    - Subsets
+    - N-Queens
+    - Sudoku solver
+    - Word search
+    - Course schedule
+
+11. DYNAMIC PROGRAMMING
+    - Fibonacci
+    - Longest increasing subsequence
+    - Edit distance
+    - Coin change
+    - House robber
+    - Longest common subsequence
+    - 0/1 Knapsack
+    - Word break
+
+12. GREEDY
+    - Activity selection
+    - Jump game
+    - Gas station
+    - Meeting rooms II
+
+13. TREE TRAVERSALS
+    - Inorder, Preorder, Postorder
+    - Level order
+    - Vertical order
+    - Diagonal traversal
+
+14. GRAPH PATTERNS
+    - BFS
+    - DFS
+    - Topological sort
+    - Dijkstra's algorithm
+    - Floyd-Warshall
+    - Minimum spanning tree
+    - Union-Find
+
+15. MATRIX
+    - Rotate matrix
+    - Spiral matrix
+    - Set matrix zeros
+    - Unique paths
+    - Maximal square
+    - Island count
+
+16. MONOTONIC STACK
+    - Next greater element
+    - Trapping rain water
+    - Largest rectangle histogram
+
+17. TRIE
+    - Implement Trie
+    - Word search II
+    - Autocomplete
+
+18. HEAP / PRIORITY QUEUE
+    - Kth largest element
+    - Top K frequent
+    - Merge K sorted lists
+    - Median finder
+
+19. STRING PATTERNS
+    - KMP algorithm
+    - Palindrome partitioning
+    - Regular expression matching
+    - Implement strStr
+
+20. SEGMENT TREE / BIT
+    - Range sum query
+    - Range update query
